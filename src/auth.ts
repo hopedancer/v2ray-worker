@@ -27,8 +27,8 @@ export async function GetLogin(request: Request, env: Env): Promise<Response> {
           </div>
         </div>
          <div class="p-3 bg-primary text-white">
-          <div class="text-nowrap fs-4 fw-bold text-center">شیطنت نکن، برو از همون کانال کانفیگتو بگیر حالشو ببر، آدرس کانال:</div>
-          <div class="text-nowrap fs-4 fw-bold text-center">https://t.me/hdancer</div>
+<div class="text-nowrap fs-4 fw-bold text-center">شیطنت نکن، برو از همون کانال کانفیگتو بگیر حالشو ببر</div>
+<div class="text-nowrap fs-6 text-center"><a href="https://t.me/hdancer">مراجعه به کانال</a></div>
         </div>
         ${htmlMessage}
         <form class="mt-5 p-3 row g-3" method="post">
